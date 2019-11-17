@@ -1,0 +1,88 @@
+*** Some Latex template ***
+
+%font Times New Roman
+\usepackage{times}
+\usepackage{mathptmx}
+
+%toán học
+\usepackage{amssymb, amsthm}
+\usepackage[intlimits]{mathtools}
+\usepackage{array}
+
+%trích dẫn
+\usepackage{listings}
+\usepackage{verbatim}
+
+%tính toán
+\usepackage{calc}
+\usepackage{xifthen}
+
+%hình vẽ
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{rotating}
+\usepackage{pdfpages}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{eso-pic}
+\usepackage{wallpaper}
+
+%quay ngang trang
+\usepackage{pdflscape}
+
+%bảng số
+\usepackage{makecell}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{booktabs}
+
+%thụt đầu dòng
+\usepackage{indentfirst}
+
+%tìm kiếm trên .pdf
+\usepackage{cmap}
+
+%đánh số footnote theo từng trang
+\usepackage{perpage}
+
+%khung của đoạn văn bản
+\usepackage{fancybox}
+
+%danh mục từ viết tắt
+\usepackage{nomencl}
+
+%thay đổi định dạng Chương, Mục
+\usepackage{titlesec}
+
+%thay đổi định dạng Mục Lục
+\usepackage{titletoc}
+
+%Mục Lục cho từng Chương
+\usepackage[vietnam]{minitoc}
+
+%Mục lục
+%\usepackage{biblatex}
+\usepackage[sectionbib]{chapterbib}
+
+%tạo Phụ Lục
+\usepackage{appendix}
+
+%tạo Chỉ Mục
+\usepackage{imakeidx}
+\usepackage{makeidx}
+\usepackage{idxlayout}
+
+%tạo tệp tin
+\usepackage{filecontents}
+
+%liên kết
+\usepackage{hyperref}
+
+%hiển thị thông số của latex
+\usepackage{printlen}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\end{document}

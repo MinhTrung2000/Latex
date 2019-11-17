@@ -1,0 +1,14 @@
+\documentclass[12pt,a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage[vietnamese]{babel}
+
+\usepackage[bottom=2.5cm, top=2.5cm, left=3cm, right=2cm]{geometry}
+
+\usepackage{asmthm,amssymb, mathtools}
+\usepackage{graphicx}
+
+\begin{document}
+
+\end{document}
